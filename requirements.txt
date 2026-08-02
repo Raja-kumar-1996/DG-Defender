@@ -11,7 +11,7 @@ python-dotenv==1.1.1
 
 # HTTP Requests
 aiohttp==3.12.15
-requests==2.32.5
+requests==2.32.5 
 
 # Image Processing (Welcome Cards, Captcha)
 Pillow==11.3.0
