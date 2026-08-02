@@ -1,1 +1,40 @@
+# Telegram Framework
+pyrogram==2.0.106
+tgcrypto==1.2.5
 
+# Database
+motor==3.7.1
+pymongo==4.13.2
+
+# Environment Variables
+python-dotenv==1.1.1
+
+# HTTP Requests
+aiohttp==3.12.15
+requests==2.32.5
+
+# Image Processing (Welcome Cards, Captcha)
+Pillow==11.3.0
+
+# Date & Time
+python-dateutil==2.9.0.post0
+pytz==2025.2
+
+# Logging
+colorlog==6.9.0
+
+# Async File Support
+aiofiles==24.1.0
+
+# Scheduling
+APScheduler==3.11.0
+
+# Cryptography
+cryptography==45.0.6
+
+# Utilities
+cachetools==6.2.0
+typing_extensions==4.15.0
+
+# JSON
+orjson==3.11.2
